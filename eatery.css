@@ -1,0 +1,14 @@
+*{
+    background-color: lightskyblue;
+}
+
+.wrapper{
+    background-color: aqua;
+}
+.logo img{
+    position: relative;
+    top: 0;
+    height: 7.5em;
+    width: 9.5rem;
+    color: transparent;
+}
